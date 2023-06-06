@@ -1,13 +1,16 @@
-# Module 1 
+# Module 1
 
 <!-- TOC -->
-* [Module 1](#module-1-)
+* [Module 1](#module-1)
 * [Critical Thinking](#critical-thinking)
   * [General Notes](#general-notes)
+    * [Resources](#resources)
 * [Critical Reading](#critical-reading)
   * [General Notes](#general-notes-1)
+    * [Resources](#resources-1)
 * [Paraphrasing and Plagiarism](#paraphrasing-and-plagiarism)
   * [General Notes](#general-notes-2)
+    * [Resources](#resources-2)
 <!-- TOC -->
 
 # Critical Thinking
